@@ -1,2 +1,2 @@
 
-This is a slly test.
+This is a silly test.
